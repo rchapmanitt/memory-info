@@ -6,7 +6,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["memory", "free", "total", "system"],
-  "author": "",
+  "author": "Robert",
   "license": "ISC",
   "description": "Returns the total and free system memory amount."
 }

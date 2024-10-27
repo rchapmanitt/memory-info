@@ -1,0 +1,12 @@
+{
+  "name": "mem-info",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["memory", "free", "total", "system"],
+  "author": "",
+  "license": "ISC",
+  "description": "Returns the total and free system memory amount."
+}
